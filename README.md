@@ -29,3 +29,14 @@ To run the application locally, run these commands:
 npm i
 npm run server
 ```
+
+# App Showcase
+
+![image](https://i.imgur.com/h1FZpla.png)
+![image](https://i.imgur.com/hbNp0MS.png)
+![image](https://i.imgur.com/HLIBVXT.png)
+![image](https://i.imgur.com/8hecaQZ.png)
+![image](https://i.imgur.com/vaUjW8h.png)
+![image](https://i.imgur.com/G3PXyJH.png)
+![image](https://i.imgur.com/csKGal2.png)
+![image](https://i.imgur.com/SbKPtSg.png)
